@@ -1,6 +1,6 @@
-user_name = "A"
-pin_code = "123"
-balance = 100000
+user_name = "xyz"
+pin_code = "1234"
+balance = 500000
 
 user = input("Enter your user name: ")
 pin = input("Enter your Pin Code: ")
